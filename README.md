@@ -37,6 +37,8 @@ Tasks Finished:
 3. Tupolev Tu-160
 4. Fighter_E-2_Hawkeye
 5. Fighter_Northrop_B-2
+6. F22 Raptor
+7. MIG 29
 
 ## July:
 
