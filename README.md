@@ -39,6 +39,7 @@ Tasks Finished:
 5. Fighter_Northrop_B-2
 6. F22 Raptor
 7. MIG 29
+8. Mirage 2000
 
 ## July:
 
