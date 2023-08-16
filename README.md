@@ -29,7 +29,7 @@
 |   23   | [**Saab340**]()                                                        |               August           |  VR Project(Aircraft Recognition)                            |  ID Review            |
 |   24   | [**BAE_Nimrod_MR2**]()                                                 |               August           |  VR Project(Aircraft Recognition)                            |  ID Review            |
 
-# Tasks in Progress
+# Tasks in Progress 📖
 
 | S.No   | Aircraft Recognition Projects                                |            Location                       |                            Progress                          |                            Status                            |
 | :----: | :----------------------------------------------------------- | :----------------------------:            | :----------------------------------------------------------: | :----------------------------------------------------------: |
