@@ -2,7 +2,7 @@
 
 ##  :notebook_with_decorative_cover:(Jan 9 2023~)
 
-| Circle | Project                                                                |            Month            |                            Type                             |                            Status                             |
+| S.No   | Project                                                                |            Month            |                            Type                             |                            Status                             |
 | :----: | :-----------------------------------------------------------           | :----------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |   01   | [**GUI Applcation for the Canvas.**]()                                 |               January          |  Trial Project                                               |  :heavy_check_mark:   |
 |   02   | [**Flight Preview with GUI Application and Animation.**]()             |               January          |  Trial Project                                               |  :heavy_check_mark:   |
