@@ -28,6 +28,7 @@
 |   22   | [**F35_Joint_Strike_Fighter**]()                                       |               July             |  VR Project(Aircraft Recognition)                            |  ID Review            |
 |   23   | [**Saab340**]()                                                        |               August           |  VR Project(Aircraft Recognition)                            |  ID Review            |
 |   24   | [**BAE_Nimrod_MR2**]()                                                 |               August           |  VR Project(Aircraft Recognition)                            |  ID Review            |
+|   25   | [**Hongdu JL-10**]()                                                   |               August           |  VR Project(Aircraft Recognition)                            |  ID Review            |
 
 # Tasks in Progress 📖
 
@@ -42,4 +43,5 @@
 |   07   | [**KBZ_II_VR_AR_IDFA_Mirage_2000**]()                        |        Local Directory                    |                 :heavy_check_mark:                           |                  Ready for Review from Department            |
 |   08   | [**KBZ_II_VR_AR_IDFA_McDonnells Douglas F-15 Eagle**]()      |        Local Directory                    |                 :heavy_check_mark:                           |                  Ready for Review from Department            |
 |   09   | [**KBZ_II_VR_AR_IDFA_Northrob_B2**]()                        |        Local Directory                    | Flickering Issues, Global Issues, New Images, Icon Placements, Reset Tracker on Load, Replacement of Scripts (Pending) |                  NA   |
-|   10   | [**KBZ_II_VR_AR_IDFA_Fighter_E-2_Hawkeye**]()                |        Local Directory                    | Global Issues, New Images, Icon Placements, Reset Tracker on Load, Replacement of Scripts (Pending) |                  NA   |
+|   10   | [**KBZ_II_VR_AR_IDFA_Fighter_E-2_Hawkeye**]()                |        Local Directory                    |                 :heavy_check_mark:                           |                  Ready for Review from Department            |
+|   11   | [**KBZ_II_VR_AR_IDFA_Hongdu JL-10**]()                       |        Local Directory                    |                 Development Phase                            |                                NA                            |
