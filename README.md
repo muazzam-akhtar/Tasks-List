@@ -29,9 +29,12 @@
 |   23   | **Saab340**                                                        |               August           |  VR Project(Aircraft Recognition)                            |  :heavy_check_mark:   |
 |   24   | **BAE_Nimrod_MR2**                                                 |               August           |  VR Project(Aircraft Recognition)                            |  :heavy_check_mark:   |
 |   25   | **Hongdu JL-10**                                                   |               August           |  VR Project(Aircraft Recognition)                            |  :heavy_check_mark:   |
+|   26   | **Skymaster**                                                      |               May 2024         |  Touchscreen Application                                     |  :heavy_check_mark:   |
+|   27   | **Mix & Match**                                                    |               July 2024        |  Touchscreen Application                                     |  :heavy_check_mark:   |
+|   28   | **Helicopter Performance**                                         |               September 2024   |  Touchscreen Application                                     |  :heavy_check_mark:   |
 
 # Tasks in Progress 📖
 
 | S.No   | Aircraft Recognition Projects                                |            Location                       |                            Progress                          |                            LMS                               |
 | :----: | :----------------------------------------------------------- | :----------------------------:            | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|   01   | **Object Detection**                            |          Local Directory                     |                 In Progress                          |                     Available                               |
+|   01   | **AI model**                            |          Local Directory                     |                 In Progress                          |                     Available                               |
